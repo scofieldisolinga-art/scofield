@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Boutique des chosures</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="logo">SCOFID'chosure</div>
+    <nav>
+      <div class="menu-toggle">&#9776;</div>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="A propos.html" class="A propos">A propos</a></li>
+        <li><a href="Boutique.html">Boutique</a></li>
+        <li><a href="Activite.html">Activite</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="about">
+      <h1>À propos de Nous</h1>
+      
+      <div class="about-content">
+        <img src="images/maison.jpg" alt="Notre logo" class="about-img">
+        <div class="about-text">
+          <p>
+            Bienvenue chez <strong>SCOFID'S Chossure</strong>, 
+          </p>
+          <p><span>Nous avons mis a votre disposition une boutique pour la vente des chossures hommes et femmes dans la ville de Kisangani<span></p>
+          <p><span>pour beaucooup plus d'information, veuillez entrer sur notre page contact et laisser nous une message<span></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy;2026 merci de nous faire confience </p>
+  </footer>
+
+  <script src="java/script.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plantation et Huiler</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="logo">SCOFID'chosure</div>
+    <nav>
+      <div class="menu-toggle">&#9776;</div>
+      <ul>
+        <li><a href="Index.html">Accueil</a></li>
+        <li><a href="A propos.html">Produits</a></li>
+        <li><a href="Boutiaue.html">À propos</a></li>
+        <li><a href="Activite.html"class="Active">Activite</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="gallery">
+      <h1>Nos activites</h1>
+      <div class="gallery-grid">
+
+        <div class="gallery-item">
+          <img src="images/boutique.jpg" alt="boutique">
+        </div>
+
+        <div class="gallery-item">
+          <img src="images/luxe.jpg" alt="luxe">
+        </div>
+
+        <div class="gallery-item">
+          <img src="images/chosure lux.jpg" alt="modele">
+          <h2>modelepresent</h2>
+          <p>prix: 30$ a dusquiter</p>
+        </div>
+        <p><span>nous faison nos vante sur place, des ventes sur nos marcher cible dans toute les communes de Kisangani, nos vente qui se fait en linge, le transport supporter par la maison</span></p>
+
+        <div class="gallery-item">
+          <img src="images/Ensemble.jpg" alt="produi 1">
+        </div>
+
+        <div class="gallery-item">
+          <img src="images/maison.jpg" alt="maisonS">
+          <h2>notre maison</h2>
+          <p>prix: a dusquiter</p>
+
+        </div>
+
+        <div class="gallery-item">
+          <img src="images/chosurenoire.jpg" alt="homme">
+          <h2>soulier adulte</h2>
+          <p>prix: 50$ a dusquiter</p>
+
+        </div>
+        <div class="gallery-item">
+          <img src="images/ens2.jpg" alt="ens2">
+          <h2>homme et femme</h2>
+          <p>prix: 25$ a dusquiter</p>
+
+        </div>
+        <div class="gallery-item">
+          <img src="images/soulier.jpg" alt="soulier lux">
+          <h2>soulier adulte</h2>
+          <p>prix: 50$ a dusquiter</p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 la Maison SCOFID vous dit la bienvenue</p>
+  </footer>
+
+  <script src="java/script.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SCOFID'chosure</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="logo">SCOFID'chosure</div>
+    <nav>
+      <div class="menu-toggle">&#9776;</div>
+      <ul>
+        <li><a href="Index.html">Accueil</a></li>
+        <li><a href="A propos.html" >A propos</a></li>
+        <li><a href="Boutique.html" class="Boutique">Boutique</a></li>
+        <li><a href="Activite.html">Activite</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="products">
+      <h1>Nos Produits</h1>
+      <div class="product-list">
+
+        <div class="product">
+          <img src="images/chocolat.jpg">
+          <h2></h2>
+        </div>
+
+        <div class="product">
+          <img src="images/boutique.jpg" >
+          <h2></h2>
+        </div>
+
+        <div class="product">
+          <img src="images/chossure dame.jpg" >
+          <h2></h2>
+        </div>
+
+        <div class="product">
+          <img src="images/chossure.jpg">
+          <h2></h2>
+          <p>Prix :</p>
+        </div>
+        <div class="product">
+          <img src="images/Ensemble.jpg">
+          <h2></h2>
+          <p>prix:</p>
+        </div>
+        <div class="product">
+          <img src="images/maison.jpg ">
+          <h2></h2>
+          <p>Prix :</p>
+        </div>
+        <div class="product">
+          <img src="images/luxe.jpg" >
+          <h2></h2>
+          <p>Prix : </p>
+        </div>
+        <div class="product">
+          <img src="images/soulier.jpg" >
+          <h2></h2>
+          <p>Prix : </p>
+        </div>
+         <div class="product">
+          <img src="images/ens2.jpg" >
+          <h2></h2>
+          <p>Prix : </p>
+        </div>
+         <div class="product">
+          <img src="images/noire.jpg" >
+          <h2></h2>
+          <p>Prix : </p>
+        </div>
+         <div class="product">
+          <img src="images/dame.jpg" >
+          <h2></h2>
+          <p>Prix : </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy;2026 vous souhaite la Bienvenue..</p>
+  </footer>
+
+  <script src="java/script.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Boutique des chosures</title>
+	<link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+	<header>
+		<div class="logo"><span>Rachel<span>Model</span></div>
+		<nav>
+			<ul>
+				<li><a href="Index.html">Accueil</a></li>
+				<li><a href="A propos.html">A propos</a></li>
+				<li><a href="Activite.html">Activite</a></li>
+				<li><a href="boutique.html">boutique</a></li>
+				<li><a href="Contact.html" class="contact">Contact</a></li>
+	</header>
+	 <main class="main-content">
+    <section class="contact">
+      <h1>Contactez-nous</h1>
+      <form class="contact-form">
+        <input type="text" placeholder="Votre nom" required>
+        <input type="email" placeholder="Votre email" required>
+        <textarea placeholder="Votre message" required></textarea>
+        <button type="submit">Envoyer</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 merci de nous faire confience .</p>
+  </footer>
+
+  <script src="java/script.js"></script>
+
+</body>
+</html>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boutique des chosures</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">SCOFID'chosure</div>
+    <nav>
+      <div class="menu-toggle">&#9776;</div>
+      <ul>
+        <li><a href="Index.html">Accueil</a></li>
+        <li><a href="A propos.html">A propos</a></li>
+        <li><a href="Boutique.html">Boutique </a></li>
+        <li><a href="Activite.html">Activite</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Bienvenue chez SCOFID'chosure </h1>
+    <a href="Boutique.html" class="btn">Voir nos chossures</a>
+    <p>Notre maison specialiser pour la vente des chossure homme et femme </p>
+  </section>
+
+  <script src="java/script.js"></script>
+</body>
+</html>
+
+
+	<footer>
+		<p>&copy; 2026 merci de nous faire confience </p>
+	</footer>
+
+</body>
+</html>
